@@ -1,0 +1,12 @@
+.main {
+   display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+div h1 {
+    margin: 10px; 
+    width: 50%; 
+}
+#myfavs {
+    width: 50%;
+}
